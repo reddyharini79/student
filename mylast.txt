@@ -1,0 +1,30 @@
+Open Visual Studio Code 
+Create New Project
+Choose ASP.NET Web Application from the templates.
+Select MVC as the project template.
+Click Create.
+Open  SQL Server 
+Create a new database as SchoolDB
+Then create tables for Student, Class and Subject in the SchoolDB Database.
+Then Install Entity Framework
+To the project add new item "Ado.net Entity Data Model", give it a name.
+Specify the server name, select the database name from the dropdown and test the connection.
+Select the tables, procedures,functions required. Complete the wizard.
+Build the whole solution
+Build the library separately.
+add connection string to the web.config 
+Create a Controllers(Student, Subject and Class) with selection of schoolDBEntity.
+Test the Application and Build and run the application.
+
+
+
+
+
+ Upload the project to Github :
+
+Cilck on Git option on top of the menu in Visual   Studio.
+ Click on create new respository and First validate your Github Account in Visual Studio.
+ Enter Repostitory name  and uncheck private repository option to make it public.
+And click on create and push button. It automatically creates repository and push the code into it
+
+https://github.com/reddyharini79/student/tree/master
